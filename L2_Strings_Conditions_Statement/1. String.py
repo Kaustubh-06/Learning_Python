@@ -1,4 +1,9 @@
 #String(Alphabets)
+'''
+Strings are sequences of characters enclosed in quotes.
+They can be defined using single quotes, double quotes, or triple quotes.
+Strings are immutable, meaning they cannot be changed after creation.
+'''
 str = "Hello" # Output: Hello
 str2 = 'Hi' # Output: Hi
 str3 = '''Hey''' #  Output: Hey 
